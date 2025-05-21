@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: producer-service
+
+service:
+  name: "producer-service"
